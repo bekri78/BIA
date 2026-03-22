@@ -1,0 +1,2589 @@
+[
+  {
+    "id": "2024_1.1",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Une information sur une carte stipule l’ISO 0°C au FL80. Vous devez voler au FL60. En considérant le gradient standard, quelle est la bonne affirmation ?",
+    "options": {
+      "A": "Le vol se fera en conditions à +4 °C",
+      "B": "Le vol se fera en conditions à -4 °C",
+      "C": "Le vol se fera en conditions à -2 °C",
+      "D": "Le vol se fera en conditions à +2 °C"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_1.2",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "L'occlusion est une zone :",
+    "options": {
+      "A": "très nuageuse, pluvieuse avec un plafond bas.",
+      "B": "toujours sans nuage.",
+      "C": "déclenchant fréquemment des cyclones.",
+      "D": "de très haute pression."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_1.3",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Une structure frontale :",
+    "options": {
+      "A": "est un système atmosphérique qui perturbe les instruments de bord.",
+      "B": "est la rencontre inopinée en face à face avec un autre avion en vol.",
+      "C": "est le soulèvement de l'air chaud au-dessus de l'air froid, ce qui crée des limites nuageuses plus ou moins actives.",
+      "D": "génère la plupart du temps des vents de face."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_1.4",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Sur la photo ci-contre, prise à Paris-Orly au lever du jour après une nuit fraîche, sans nuages et sans vent, on observe un brouillard :",
+    "options": {
+      "A": "d'advection.",
+      "B": "de rayonnement.",
+      "C": "d'évaporation.",
+      "D": "de convection."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_1.5",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Le givrage cellule :",
+    "options": {
+      "A": "est dû à un refroidissement progressif des structures de l’avion qui tend à bloquer les gouvernes.",
+      "B": "est dû au vol dans des couches saturées en eau liquide à températures négatives.",
+      "C": "est dû au dépôt de glace sur les ailes sous averses de grêle hors et dans les cumulonimbus.",
+      "D": "est un phénomène qui renforce la rigidité de la structure en zones de turbulence."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_1.6",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Les nuages plus particulièrement recherchés pour pratiquer le vol à voile sont :",
+    "options": {
+      "A": "les cumulonimbus.",
+      "B": "les altos cirrus.",
+      "C": "les cumulus.",
+      "D": "les nimbostratus."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_1.7",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "À la latitude de Paris, l'altitude et la température moyennes de la tropopause (atmosphère standard) sont :",
+    "options": {
+      "A": "7 km d'altitude et -45 °C.",
+      "B": "11 km d'altitude et -56 °C .",
+      "C": "17 km d'altitude et -45 °C.",
+      "D": "11 km d'altitude et -80 °C."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_1.8",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "En atmosphère standard, la masse volumique de l’air est de :",
+    "options": {
+      "A": "1225 kg/m 3 .",
+      "B": "1,225 g/m 3 .",
+      "C": "1,225 kg/m 3 .",
+      "D": "122,5 g/m 3 ."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_1.9",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "La surface atmosphérique se situant vers 11 000 m d'altitude est appelée :",
+    "options": {
+      "A": "stratopause.",
+      "B": "tropopause.",
+      "C": "stratosphère.",
+      "D": "planisphère."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_1.10",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Le préfixe des nuages dont la base est la plus élevée est :",
+    "options": {
+      "A": "alto.",
+      "B": "strato.",
+      "C": "cirro.",
+      "D": "cumulo."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_1.11",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Les deux principaux composants de l'air sec sont :",
+    "options": {
+      "A": "le diazote et le dioxygène .",
+      "B": "l'oxygène et le gaz carbonique.",
+      "C": "l'azote et l'hélium.",
+      "D": "l'oxygène et l'hydrogène."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_1.12",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Dans l'hémisphère nord, le phénomène météorologique représenté sur la figure ci- contre est :",
+    "options": {
+      "A": "un cyclone.",
+      "B": "un anticyclone.",
+      "C": "une tempête tropicale.",
+      "D": "une zone dépressionnaire."
+    },
+    "correct": null
+  },
+  {
+    "id": "2024_1.13",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Les instruments de mesure du vent en surface sont placés sur un pylône à 10 m :",
+    "options": {
+      "A": "pour échapper aux dégradations animales.",
+      "B": "pour éviter les effets de la couche de frottements de surface.",
+      "C": "pour être représentatifs à l’échelle planétaire.",
+      "D": "pour donner une information à un moment clef de l’atterrissage."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_1.14",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Une masse d’air instable :",
+    "options": {
+      "A": "est une masse d’air dont la masse nuageuse change sans cesse d’apparence.",
+      "B": "est due à l’arrivée d’air humide et chaud sur une surface froide.",
+      "C": "apparaît de façon marquée dans les inversions thermiques de basses couches.",
+      "D": "est due à un soulèvement d’air chaud de basses couches."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_1.15",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Les courants de vent puissants que l'on rencontre à très haute altitude sont nommés :",
+    "options": {
+      "A": "jet-stream.",
+      "B": "jet-lag.",
+      "C": "tornade.",
+      "D": "rafale."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_1.16",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Dans un message aéronautique, le groupe de température indique +12 °C sous abri, et +4 °C de point de rosée. On peut dire que :",
+    "options": {
+      "A": "la masse d’air est à 100 % d’humidité.",
+      "B": "la température maximale sera de +12 °C et la minimale de +4 °C.",
+      "C": "la masse d’air serait saturée pour une température sous-abri de +4 °C.",
+      "D": "la masse d’air serait saturée pour une température sous-abri de +8 °C."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_1.17",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Une traîne :",
+    "options": {
+      "A": "est la partie sous le vent d’un cumulonimbus.",
+      "B": "correspond à une précipitation qui n’atteint pas le sol.",
+      "C": "est le nom donné aux perturbations qui avancent lentement.",
+      "D": "est une zone de bonne visibilité entrecoupée d’averses à l’arrière d’un front froid."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_1.18",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Le sens de rotation des vents dans l'hémisphère nord est :",
+    "options": {
+      "A": "horaire dans un anticyclone .",
+      "B": "anti-horaire dans un anticyclone.",
+      "C": "identique à celui de l'hémisphère sud.",
+      "D": "horaire dans une dépression."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_1.19",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Le phénomène météorologique observé sur la photo ci-dessous est :",
+    "options": {
+      "A": "du brouillard.",
+      "B": "un orage.",
+      "C": "un front chaud.",
+      "D": "la convection."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_1.20",
+    "year": 2024,
+    "theme": "meteorologie",
+    "question": "Lorsque des cumulus sont annoncés, cela indique au pilote que :",
+    "options": {
+      "A": "des orages sont systématiquement à prévoir.",
+      "B": "des précipitations continues sont probables.",
+      "C": "la masse d’air est instable.",
+      "D": "la surface frontale est proche."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_2.1",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "La vitesse de décrochage d'un avion augmente quand :",
+    "options": {
+      "A": "la quantité de carburant dans les réservoirs diminue.",
+      "B": "le facteur de charge diminue.",
+      "C": "la masse de l'avion diminue.",
+      "D": "le facteur de charge augmente."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_2.2",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Le facteur de charge est défini comme le rapport :",
+    "options": {
+      "A": "poids / traînée.",
+      "B": "portance / traînée.",
+      "C": "traînée / poids.",
+      "D": "portance / poids."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_2.3",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Le poids d'un satellite tournant autour d'un astre est :",
+    "options": {
+      "A": "compensé par sa force de portance.",
+      "B": "compensé par sa force centrifuge.",
+      "C": "compensé uniquement par ses moteurs fusées.",
+      "D": "nul car il est en apesanteur."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_2.4",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "En phase d'atterrissage, le pilote sort les volets hypersustentateurs. L'objectif est :",
+    "options": {
+      "A": "de conserver la portance à vitesse réduite.",
+      "B": "de réduire la portance et d'augmenter sa vitesse.",
+      "C": "de diminuer la traînée.",
+      "D": "d'augmenter la vitesse."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_2.5",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Les dispositifs hypersustentateurs ont pour but :",
+    "options": {
+      "A": "de diminuer la portance à vitesse élevée (par exemple : pour une descente d'urgence).",
+      "B": "d'augmenter la vitesse de décrochage pour certaines manœuvres.",
+      "C": "de diminuer la traînée pour certaines manœuvres.",
+      "D": "de diminuer la vitesse de décrochage dans certaines phases de vol (par exemple : au décollage et à l'atterrissage)."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_2.6",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "La distance de roulage nécessaire au décollage diminue lorsque :",
+    "options": {
+      "A": "l’altitude augmente.",
+      "B": "la température augmente.",
+      "C": "la composante de vent arrière augmente.",
+      "D": "la température diminue."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_2.7",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Par définition, la portance est la composante de la résultante aérodynamique :",
+    "options": {
+      "A": "parallèle à la direction du vent relatif.",
+      "B": "parallèle à la corde de profil de l'aile.",
+      "C": "perpendiculaire à la direction du vent relatif.",
+      "D": "perpendiculaire à la corde de profil de l'aile."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_2.8",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Le vent relatif :",
+    "options": {
+      "A": "est la composante du vent prévu parallèle à la trajectoire.",
+      "B": "est parallèle à la trajectoire, et de même sens que le déplacement de l'avion.",
+      "C": "est parallèle à la trajectoire, mais de sens opposé au déplacement de l'avion.",
+      "D": "est la composante du vent réel perpendiculaire à la trajectoire."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_2.9",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "La force parallèle, de même sens que le vent relatif, est :",
+    "options": {
+      "A": "la portance.",
+      "B": "la traînée.",
+      "C": "le poids.",
+      "D": "la résultante aérodynamique."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_2.10",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "En virage symétrique en palier, le facteur de charge :",
+    "options": {
+      "A": "augmente si la vitesse augmente.",
+      "B": "augmente si l’inclinaison augmente.",
+      "C": "diminue si la vitesse augmente.",
+      "D": "diminue si l’inclinaison augmente."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_2.11",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Sur un hélicoptère, le vrillage d'une pale a pour but de tendre à :",
+    "options": {
+      "A": "augmenter la portance de la pale.",
+      "B": "uniformiser la portance sur toute la longueur de la pale.",
+      "C": "diminuer la traînée.",
+      "D": "déplacer le centre de gravité de la pale."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_2.12",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Sur un hélicoptère à assiette nulle, la commande appelée levier de pas collectif permet de modifier l’incidence des pales du rotor. Elle permet ainsi :",
+    "options": {
+      "A": "de contrôler les mouvements autour de l’axe de lacet.",
+      "B": "de contrôler les mouvements autour de l’axe de tangage.",
+      "C": "de modifier la portance pour le faire avancer ou reculer.",
+      "D": "de modifier la portance pour le faire monter ou descendre."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_2.13",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "L'angle de calage d'une aile est compris entre :",
+    "options": {
+      "A": "la corde de profil de l'aile et l'axe longitudinal de l'avion.",
+      "B": "la corde de profil de l'aile et le vent relatif.",
+      "C": "le plan de l'aile et l'horizontale.",
+      "D": "le bord d'attaque et la perpendiculaire de l'axe avion."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_2.14",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Plus la finesse d'un planeur est élevée :",
+    "options": {
+      "A": "plus la distance qu'il peut parcourir est faible.",
+      "B": "plus son poids est faible.",
+      "C": "plus la distance qu'il peut parcourir est élevée.",
+      "D": "plus sa traînée est importante."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_2.15",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Parmi les éléments suivants, celui qui a une influence sur la position du centre de gravité est :",
+    "options": {
+      "A": "la trajectoire (palier, montée, descente).",
+      "B": "la vitesse.",
+      "C": "le niveau de carburant dans les réservoirs.",
+      "D": "l’inclinaison."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_2.16",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Le décollage d'un avion se fait toujours face au vent pour :",
+    "options": {
+      "A": "décoller sur une distance plus courte.",
+      "B": "diminuer la portance.",
+      "C": "éviter de dépasser la VNE.",
+      "D": "diminuer la traînée."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_2.17",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "La traînée induite est une conséquence de :",
+    "options": {
+      "A": "l’interaction du fuselage et de l’aile.",
+      "B": "la rotation de l’hélice.",
+      "C": "la différence de pression entre l’intrados et l’extrados.",
+      "D": "l’usage d’un train fixe."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_2.18",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "Trop de poids sur l’arrière de votre avion :",
+    "options": {
+      "A": "augmente la stabilité et la manœuvrabilité.",
+      "B": "diminue la stabilité et la manœuvrabilité.",
+      "C": "augmente la stabilité et diminue la manœuvrabilité.",
+      "D": "diminue la stabilité et augmente la manœuvrabilité."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_2.19",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "La base de lancement spatial de Kourou est située proche de l'équateur pour profiter :",
+    "options": {
+      "A": "d'une plus grande vitesse de rotation de la Terre.",
+      "B": "d'un climat tempéré.",
+      "C": "d'une pression atmosphérique faible.",
+      "D": "d'un espace aérien réservé à cet usage."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_2.20",
+    "year": 2024,
+    "theme": "aerodynamique",
+    "question": "La distance de décollage augmente quand :",
+    "options": {
+      "A": "la pression et la température de l'atmosphère diminuent.",
+      "B": "la pression et la température de l'atmosphère augmentent.",
+      "C": "la pression atmosphérique diminue et la température de l'atmosphère augmente.",
+      "D": "la pression atmosphérique augmente et la température de l'atmosphère diminue."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_3.1",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Un altimètre utilise la pression :",
+    "options": {
+      "A": "statique.",
+      "B": "dynamique.",
+      "C": "totale.",
+      "D": "différentielle."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_3.2",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Un saumon d'aile est :",
+    "options": {
+      "A": "la jonction entre l'aile et le fuselage.",
+      "B": "une pièce en forme de poisson qui sert à équilibrer l'aileron.",
+      "C": "l'extrémité de l'aile appelée aussi bord marginal.",
+      "D": "une pièce renforcée de l'aile qui sert de marchepied."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_3.3",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Cet avion est biplace. En examinant la photo ci-dessous, quelle est la configuration des places des pilotes ?",
+    "options": {
+      "A": "En côte à côte",
+      "B": "En tandem",
+      "C": "En push-pull",
+      "D": "En vis-à-vis"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.4",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Quel est le principal défaut du variomètre ?",
+    "options": {
+      "A": "Il manque de précision notamment en virage.",
+      "B": "De par sa conception, il ne peut pas donner une information en instantané, il faut une phase de vol stabilisée.",
+      "C": "Il nécessite un recalage qui est fonction du QNH local.",
+      "D": "il est perturbé lors du passage en vol IMC (dans les nuages)."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.5",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Sur un avion, l'indicateur de virage présente la configuration ci-dessous : L'avion se trouve :",
+    "options": {
+      "A": "en virage à gauche.",
+      "B": "en virage à droite asymétrique.",
+      "C": "en virage à gauche symétrique au taux standard.",
+      "D": "en virage à droite."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_3.6",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "En vol en palier, l’aile est soumise à de la flexion qui engendre sur le longeron :",
+    "options": {
+      "A": "de la compression sur l’extrados et sur l’intrados.",
+      "B": "de la compression sur l’extrados et de la traction sur l’intrados.",
+      "C": "de la traction sur l’extrados et sur l’intrados.",
+      "D": "de la traction sur l’extrados et de la compression sur l’intrados."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.7",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "L’avion présenté ci-dessous est propulsé par 2 turboréacteurs, lesquels sont chacun constitués de :",
+    "options": {
+      "A": "tuyère et bielle.",
+      "B": "turbine et vilebrequin.",
+      "C": "chambre de combustion et piston.",
+      "D": "tuyère et turbine."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_3.8",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Qu’est-ce que le taux de dilution d’un turboréacteur double flux ?",
+    "options": {
+      "A": "Le diamètre du fan",
+      "B": "La puissance du turboréacteur en daN",
+      "C": "Le rapport entre le débit d’air du flux secondaire et du flux primaire",
+      "D": "Le gain de puissance par rapport au même réacteur en simple flux"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_3.9",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "L'intérêt de l'utilisation des matériaux composites en construction aéronautique est :",
+    "options": {
+      "A": "une meilleure conductibilité électrique.",
+      "B": "une meilleure recyclabilité.",
+      "C": "un allègement de la structure.",
+      "D": "le coût de la matière première."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_3.10",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Le rotor anticouple de l’hélicoptère permet :",
+    "options": {
+      "A": "le décollage de l’hélicoptère.",
+      "B": "d’éviter une rotation permanente de l’hélicoptère autour de l’axe de lacet.",
+      "C": "de pallier le problème des pales montantes et descendantes.",
+      "D": "d’augmenter le plafond opérationnel de l’hélicoptère."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.11",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Le profil d’une aile est donné par :",
+    "options": {
+      "A": "les longerons.",
+      "B": "les nervures.",
+      "C": "les lisses.",
+      "D": "les raidisseurs"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.12",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "L’utilisation de l’hydraulique pour les commandes de vol permet :",
+    "options": {
+      "A": "un gain de poids.",
+      "B": "de diminuer les efforts du pilote.",
+      "C": "de ne pas avoir de maintenance sur cette partie de l’avion.",
+      "D": "d’avoir un train rentrant grâce au circuit hydraulique (on n’installe pas un circuit hydraulique uniquement pour le train rentrant)."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.13",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Le fluide d'un circuit hydraulique :",
+    "options": {
+      "A": "est de l'eau utilisable sous basse pression et à une température supérieure à 0 °C.",
+      "B": "est difficilement utilisable sur avion du fait de sa compressibilité.",
+      "C": "n'est utilisé qu'au-delà de 0 °C pour actionner les freins et les vérins des trains escamotables.",
+      "D": "est utilisé sous pression pour actionner des commandes."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_3.15",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Quand l’horizon artificiel vous indique cette position, votre avion est :",
+    "options": {
+      "A": "cabré et incliné à gauche",
+      "B": "en piqué et incliné à droite",
+      "C": "en piqué et incliné à gauche",
+      "D": "cabré et incliné à droite"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_3.16",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Un empennage dit « canard » :",
+    "options": {
+      "A": "génère normalement une déportance. Cette surface décroche avant l'aile principale.",
+      "B": "génère normalement une portance. Cette surface décroche avant l'aile principale.",
+      "C": "génère normalement une déportance. Cette surface décroche après l'aile principale.",
+      "D": "génère normalement une portance. Cette surface décroche après l'aile principale."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.17",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Pour un avion en bois et toile moderne :",
+    "options": {
+      "A": "seules les ailes sont en bois recouvert de toile.",
+      "B": "les longerons d'aile sont en bois et les nervures en alliage d'aluminium.",
+      "C": "toute la structure est en bois recouvert de toile.",
+      "D": "le fuselage est en bois entoilé et l'aile en alliage métallique."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_3.18",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "L'action du réchauffage du carburateur se traduit par :",
+    "options": {
+      "A": "une augmentation de la puissance.",
+      "B": "une diminution de la puissance.",
+      "C": "une réduction du débit carburant.",
+      "D": "une réduction de la pression essence."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_3.19",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "En aéromodélisme, un avion d’apprentissage « deux axes » est pilotable sur les axes de :",
+    "options": {
+      "A": "roulis et lacet.",
+      "B": "roulis uniquement.",
+      "C": "tangage et roulis.",
+      "D": "tangage et lacet."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_3.20",
+    "year": 2024,
+    "theme": "aeronefs",
+    "question": "Quel est le type de moteur de la photo ci-dessous ?",
+    "options": {
+      "A": "Turboréacteur double corps et simple flux",
+      "B": "Turboréacteur simple corps et double flux",
+      "C": "Turboréacteur double corps et double flux",
+      "D": "Turboréacteur simple corps et simple flux"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_4.1",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "La piste d'un aéroport est identifiée par le numéro 23 R. Quel est le numéro inscrit à l'autre bout de la piste ?",
+    "options": {
+      "A": "23 L",
+      "B": "05 R",
+      "C": "05 L",
+      "D": "23 R"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_4.2",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Comment sera numérotée une piste d'orientation magnétique de 104 °?",
+    "options": {
+      "A": "11",
+      "B": "10",
+      "C": "4",
+      "D": "104"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_4.3",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "La fédération qui prend en charge les hélicoptères est :",
+    "options": {
+      "A": "la FFVP (ex FFVV)",
+      "B": "la FFVL",
+      "C": "la FFH (ex FFG)",
+      "D": "la FFA"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_4.4",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "À mi-chemin, vous apercevez une montgolfière devant vous, légèrement sur votre gauche et à la même altitude. Sa trajectoire converge avec la vôtre.",
+    "options": {
+      "A": "La priorité à droite impose pour la montgolfière de changer son altitude de vol.",
+      "B": "Vous utilisez votre phare d'atterrissage pour prévenir la montgolfière de votre arrivée.",
+      "C": "La montgolfière est prioritaire et vous devez modifier votre trajectoire pour l'éviter.",
+      "D": "Vous êtes réglementairement prioritaire et vous maintenez votre trajectoire."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_4.5",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "En vol de nuit, vous apercevez un avion qui s’éloigne de vous. Quel est l’ordre de la couleur des feux de gauche à droite ?",
+    "options": {
+      "A": "Blanc, vert",
+      "B": "Vert, rouge",
+      "C": "Rouge, blanc",
+      "D": "Rouge, blanc, vert"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_4.6",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Un espace de classe G est :",
+    "options": {
+      "A": "contrôlé.",
+      "B": "non contrôlé.",
+      "C": "interdit au VFR.",
+      "D": "autorisé en VFR spécial."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_4.7",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Quelle est la correspondance d'un mille nautique dans le système métrique ?",
+    "options": {
+      "A": "1 528 mètres",
+      "B": "1 609 mètres",
+      "C": "0,8 km²",
+      "D": "1,852 km"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_4.8",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "En France métropolitaine, en un lieu déterminé, la nuit aéronautique commence :",
+    "options": {
+      "A": "30 minutes après le coucher du soleil et se termine 30 minutes après le lever du soleil.",
+      "B": "30 minutes après le coucher du soleil et se termine 30 minutes avant le lever du soleil.",
+      "C": "30 minutes avant le coucher du soleil et se termine 30 minutes après le lever du soleil.",
+      "D": "30 minutes avant le coucher du soleil et se termine 30 minutes avant le lever du soleil."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_4.9",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Pour la sécurité des vols, la qualité qu'il faut avoir en priorité est :",
+    "options": {
+      "A": "une bonne connaissance de soi, de ses limites et de sa machine.",
+      "B": "une grande habileté de pilotage.",
+      "C": "un grand nombre d'heures de pilotage.",
+      "D": "une bonne connaissance de la réglementation."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_4.10",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Le pied (ft) correspond à une distance de :",
+    "options": {
+      "A": "0,3048 m",
+      "B": "1609 m",
+      "C": "1852 m",
+      "D": "0,852 m"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_4.11",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Vous effectuez un vol à l’estime. Cela consiste à :",
+    "options": {
+      "A": "suivre des lignes naturelles ou des repères caractéristiques du sol.",
+      "B": "déterminer le cap à prendre et l’heure estimée d’arrivée à un point caractéristique en fonction de sa vitesse.",
+      "C": "estimer sa position à l’aide d’un VOR (VHF Omnidirectional Range).",
+      "D": "estimer sa position à l’aide d’un goniomètre."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_4.12",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Le calage de 1000 hPa étant affiché sur les deux appareils, 1 se rapproche d’une masse d’air froide tandis que 2 se rapproche d’une masse d’air chaude. À altitude indiquée constante, comment va évoluer l’altitude réelle des deux appareils ?",
+    "options": {
+      "A": "L’altitude réelle de 1 diminue et l’altitude réelle de 2 augmente.",
+      "B": "L’altitude réelle de 1 augmente et l’altitude réelle de 2 diminue.",
+      "C": "Les altitudes réelles de 1 et 2 restent constantes.",
+      "D": "Les deux altitudes réelles évoluent de la même manière."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_4.13",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Le code standard d’un transpondeur en VFR en l’absence d’instruction du contrôle est :",
+    "options": {
+      "A": "le 7000.",
+      "B": "le 7700.",
+      "C": "le 7600.",
+      "D": "le 7500."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_4.14",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Un avion de ligne effectue la liaison New York - Paris à la vitesse propre de 900 km/h. Il évolue dans un Jet Stream de 300 km/h orienté d'ouest en est. Quelle est alors sa vitesse-sol ?",
+    "options": {
+      "A": "600 km/h",
+      "B": "900 km/h",
+      "C": "1200 km/h",
+      "D": "300 km/h"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_4.15",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Pour voler en France, les avions certifiés doivent obligatoirement posséder :",
+    "options": {
+      "A": "la licence de station d’aéronefs (LSA).",
+      "B": "l'habilitation de radiotéléphonie en langue française.",
+      "C": "la facture d’achat de l’avion.",
+      "D": "les certificats de navigabilité (CEN) et d’examen de navigabilité (CEDN)."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_4.16",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Au bout de 10 minutes de vol, vous ressentez des nausées, votre instructeur vous tend un sac à vomi que vous ne tardez pas à utiliser. Vous êtes victime :",
+    "options": {
+      "A": "d’un conflit vestibulo-visuel",
+      "B": "d'une otite barotraumatique",
+      "C": "d'une hypoxie",
+      "D": "d'une embolie pulmonaire"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_4.17",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Lorsqu’un numéro de piste est entouré sur une carte VAC, il s’agit :",
+    "options": {
+      "A": "de la piste à utiliser en cas de vent nul ou faible.",
+      "B": "du point bas d’une piste en pente.",
+      "C": "du point haut d’une piste en pente.",
+      "D": "de prévenir d’un obstacle en entrée de piste."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_4.18",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Un DME affichera la distance entre la station et l’avion correspondant à :",
+    "options": {
+      "A": "l’arc DME.",
+      "B": "la distance sol.",
+      "C": "l’altitude et la distance sol.",
+      "D": "la distance oblique qui les sépare."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_4.19",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "Souhaitant vous questionner sur vos connaissances, le contrôleur aérien vous demande à quoi correspond l’indication VAR 2°E figurant dans le coin en haut à droite de la carte VAC (doc. N°1 ci- dessous). Vous répondez :",
+    "options": {
+      "A": "la déviation magnétique.",
+      "B": "la déclinaison magnétique.",
+      "C": "la diffraction magnétique.",
+      "D": "la réfraction magnétique."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_4.20",
+    "year": 2024,
+    "theme": "navigation",
+    "question": "La piste principale de Brest Bretagne a une orientation magnétique 07R /25L. À un instant donné, le vent est du 270° pour 10kt. Vous décidez :",
+    "options": {
+      "A": "de décoller piste 07R.",
+      "B": "de décoller piste 25L.",
+      "C": "de ne pas décoller car le vent est trop de travers par rapport à l’axe de la piste.",
+      "D": "de choisir n’importe quelle piste car cela n’a pas d’importance pour le décollage."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_5.1",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Marcel Bloch, plus connu sous le nom de Marcel Dassault s’est fait connaître pendant la Première Guerre mondiale en créant une hélice très performante pour l’époque. Il s’agit de l’hélice :",
+    "options": {
+      "A": "orage.",
+      "B": "ouragan.",
+      "C": "éclair.",
+      "D": "tornade."
+    },
+    "correct": null
+  },
+  {
+    "id": "2024_5.2",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Le passage du mur du son en chute libre est :",
+    "options": {
+      "A": "réalisé pour la première fois par l’autrichien Félix Baumgartner en 2012.",
+      "B": "réalisé pour la première fois par l’américain Joseph Kittinger en 1960.",
+      "C": "n’a jamais été réalisé.",
+      "D": "n’est physiquement pas réalisable."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_5.3",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "En novembre 2014, la sonde Roseta a déposé sur la comète Churyumov un robot appelé :",
+    "options": {
+      "A": "Voyager.",
+      "B": "Philae.",
+      "C": "Opportunity.",
+      "D": "Curiosity."
+    },
+    "correct": null
+  },
+  {
+    "id": "2024_5.4",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "L'aviation s'est considérablement développée au cours de la Première Guerre mondiale. Ses toutes premières missions étaient :",
+    "options": {
+      "A": "l'observation de l'ennemi.",
+      "B": "le ravitaillement.",
+      "C": "le transport du courrier.",
+      "D": "le bombardement à haute altitude."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_5.5",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Le premier constructeur français à lancer une ligne aéropostale entre la France et l’Amérique du Sud est :",
+    "options": {
+      "A": "Louis BREGUET.",
+      "B": "Georges LATECOERE.",
+      "C": "Louis BLERIOT.",
+      "D": "Henri FARMAN."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_5.6",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Léonard de Vinci a envisagé un modèle de parachute :",
+    "options": {
+      "A": "composé d'une voilure tournante en plumes d'oiseau.",
+      "B": "en forme de « tente » à faces rectangulaires ou triangulaires.",
+      "C": "comportant quatre vis d’Archimède.",
+      "D": "de forme hémisphérique."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_5.7",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Au lendemain de la Seconde Guerre mondiale, les américains recrutent l'un des meilleurs spécialistes allemands en techniques aérospatiales. Il s'agit de :",
+    "options": {
+      "A": "Junkers.",
+      "B": "Messerschmitt.",
+      "C": "Stuka.",
+      "D": "Von Braun."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_5.8",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "En novembre 2016, le dixième spationaute français a rejoint la station spatiale internationale (ISS) pour une mission de six mois. Il est d'ailleurs en 2018, le parrain des 50 ans du B.I.A. Il s'agit de :",
+    "options": {
+      "A": "Patrick Baudry.",
+      "B": "Jean-Loup Chrétien.",
+      "C": "Thomas Pesquet.",
+      "D": "Claudine Haigneré."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_5.9",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Octave Chanute est :",
+    "options": {
+      "A": "le premier directeur de l'Aéropostale.",
+      "B": "le premier président d'Airbus.",
+      "C": "un ingénieur américain d'origine française pionnier de l'aviation.",
+      "D": "le premier « ministre de l'air »."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_5.10",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Parmi ces grandes figures féminines de l’aéronautique, laquelle est allée dans l’espace ?",
+    "options": {
+      "A": "Jacqueline AURIOL",
+      "B": "Valentina TERECHKOVA",
+      "C": "Jacqueline COCHRAN",
+      "D": "Catherine MAUNOURY"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_5.11",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Dans la mythologie grecque, Icare, le fils de Dédale s'envole avec des ailes faites de :",
+    "options": {
+      "A": "soie et de cire.",
+      "B": "coton et de cire.",
+      "C": "plumes et de cire .",
+      "D": "lin et de cire."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_5.12",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Les avions qui se sont affrontés pendant la Seconde Guerre mondiale sont :",
+    "options": {
+      "A": "Spad XIII et Fokker.",
+      "B": "Spitfire et Me 109.",
+      "C": "Hurricane et Rafale.",
+      "D": "Mig 21 et F14."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2024_5.13",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "En 1917, l'as allemand Mandfred Von Richtofen s'illustre aux commandes de son Fokker DRI. Cet avion connu pour sa maniabilité était équipé de :",
+    "options": {
+      "A": "une aile.",
+      "B": "deux ailes.",
+      "C": "trois ailes.",
+      "D": "quatre ailes."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_5.14",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Le premier homme qui effectua une orbite complète dans l’espace en 1961 fut :",
+    "options": {
+      "A": "l'Américain Neil Armstrong (programme Apollo).",
+      "B": "l'Américain Alan Shepard (programme Mercury).",
+      "C": "le Soviétique Youri Gagarine (programme Vostok)",
+      "D": "l'Américain John Glenn (programme Mercury)."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_5.15",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Dans les années 1930, les Allemands deviennent les leaders mondiaux dans la construction des planeurs. Ce succès est dû en grande partie :",
+    "options": {
+      "A": "à une absence totale d'approvisionnement en carburant.",
+      "B": "à leur industrie du balsa.",
+      "C": "à l'interdiction qui leur est imposée de constituer une aviation militaire motorisée après la guerre 14-18.",
+      "D": "aux polymères qu'ils utilisent pour obtenir des surfaces de voilures très lisses."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_5.16",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "En 1797, un aérostier effectue depuis la nacelle d'une montgolfière le premier saut en parachute de l'Histoire. Cet aéronaute s'appelle :",
+    "options": {
+      "A": "le marquis d'Arlandes.",
+      "B": "Jacques Charles.",
+      "C": "André-Jacques Garnerin.",
+      "D": "Pilatre de Roziers."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2024_5.17",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Peu de temps après le vol d'un ballon à air chaud, le physicien Jean Charles réalise le premier vol d'un :",
+    "options": {
+      "A": "cerf-volant.",
+      "B": "planeur à ailes battantes.",
+      "C": "dirigeable.",
+      "D": "ballon à gaz (autre que l'air)."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_5.18",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "La compagnie Air France a été créée en :",
+    "options": {
+      "A": "1933.",
+      "B": "1945.",
+      "C": "1920.",
+      "D": "1970."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2024_5.19",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Normandie-Niemen est une escadrille :",
+    "options": {
+      "A": "de la RAF ayant participé au débarquement de Normandie.",
+      "B": "de volontaires polonais se battant sur le Front de l'Est.",
+      "C": "d'Américains engagés le Jour J.",
+      "D": "de Français libres ayant combattu avec les forces soviétiques."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2024_5.20",
+    "year": 2024,
+    "theme": "histoire",
+    "question": "Le meilleur avion de chasse de la Première Guerre mondiale fut le :",
+    "options": {
+      "A": "Caudron G3.",
+      "B": "Spitfire.",
+      "C": "Spad XIII.",
+      "D": "Blériot XI."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_1.1",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Une information sur une carte stipule l’ISO 0°C au FL80. Vous devez voler au FL60. En considérant le gradient standard, quelle est la bonne affirmation ?",
+    "options": {
+      "A": "Le vol se fera à +4 °C.",
+      "B": "Le vol se fera à -4 °C.",
+      "C": "Le vol se fera à -2 °C.",
+      "D": "Le vol se fera à +2 °C."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_1.2",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Les deux principaux composants de l'air sec sont :",
+    "options": {
+      "A": "le diazote et le dioxygène.",
+      "B": "l'oxygène et le gaz carbonique.",
+      "C": "l'azote et l'hélium.",
+      "D": "l'oxygène et l'hydrogène."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_1.3",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "La transformation de l'eau de l'état gazeux à l'état liquide s'appelle :",
+    "options": {
+      "A": "la fusion.",
+      "B": "la sublimation.",
+      "C": "l'évaporation.",
+      "D": "la condensation."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_1.4",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Une trouée de Foehn :",
+    "options": {
+      "A": "est un endroit favorable à la pratique de la voltige aérienne.",
+      "B": "est une trouée de ciel clair associée à l’apparition d’un Cumulonimbus qui capte toute l’humidité de l’air.",
+      "C": "est une zone de ciel clair sous le vent d’un relief par suite d’asséchement de la masse d’air.",
+      "D": "est une zone de ciel clair liée à de hautes pressions à l’arrière d’un massif montagneux."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_1.5",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Parmi les éléments suivants, une conséquence possible du givrage est :",
+    "options": {
+      "A": "un gain d'altitude.",
+      "B": "une altération des profils aérodynamiques.",
+      "C": "une amélioration des performances de l'aéronef.",
+      "D": "une diminution de la traînée."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_1.6",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Lorsque le vent est fort au sol :",
+    "options": {
+      "A": "il y a peu de turbulences dans les basses couches de l’atmosphère.",
+      "B": "le ciel va systématiquement se dégager.",
+      "C": "il est nul en altitude.",
+      "D": "des turbulences dues aux imperfections du sol et aux obstacles se développent en basses couches."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_1.7",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Le mistral est un vent :",
+    "options": {
+      "A": "du sud sur Marseille.",
+      "B": "du sud-ouest qui souffle sur le Languedoc.",
+      "C": "du nord-ouest qui souffle sur le Languedoc.",
+      "D": "du nord qui souffle dans la vallée du Rhône."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_1.8",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "« Marais barométrique » désigne :",
+    "options": {
+      "A": "une zone où la pression varie peu.",
+      "B": "une zone ou un axe de basses pressions.",
+      "C": "une zone ou un axe de hautes pressions.",
+      "D": "une zone où le gradient de pression est très élevé."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_1.9",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Sur la photo ci-dessous, prise à Paris-Orly au lever du jour après une nuit fraîche, sans nuages et sans vent, on observe un brouillard :",
+    "options": {
+      "A": "d'advection.",
+      "B": "de rayonnement.",
+      "C": "d'évaporation.",
+      "D": "de convection."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_1.10",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Sur une carte de pression une ligne qui joint les points d'égale pression est nommée :",
+    "options": {
+      "A": "une isotherme.",
+      "B": "une isocline.",
+      "C": "une isohypse.",
+      "D": "une isobare."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_1.11",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Un front froid :",
+    "options": {
+      "A": "est une surface séparant un air froid en mouvement d’un air plus chaud qu’il soulève.",
+      "B": "est l’arrivée d’un air froid sur une surface polaire glacée.",
+      "C": "est l’arrivée d’un air froid et lourd qui stabilise la basse couche atmosphérique.",
+      "D": "est généralement associé à des brises marines d’ouest."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_1.12",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Les courants de vent puissants que l’on rencontre à très haute altitude sont nommés :",
+    "options": {
+      "A": "jet-stream.",
+      "B": "jet-lag.",
+      "C": "tornado.",
+      "D": "Rafale."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_1.13",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "La couche de l'atmosphère où se concentrent les phénomènes météorologiques est la :",
+    "options": {
+      "A": "stratosphère.",
+      "B": "troposphère.",
+      "C": "mésosphère.",
+      "D": "thermosphère."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_1.14",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Le principal danger induit par le brouillard sur le vol est :",
+    "options": {
+      "A": "la formation de givrage possible en toutes saisons.",
+      "B": "la turbulence associée.",
+      "C": "la diminution de la visibilité.",
+      "D": "le risque de foudroiement."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_1.15",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Dans l'atmosphère standard, la température au niveau de la mer est de :",
+    "options": {
+      "A": "0 °C.",
+      "B": "10 °C.",
+      "C": "15 °C.",
+      "D": "20 °C."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_1.16",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "À 4 000 m, le capteur du ballon sonde relève une température de -1°C. Nous en concluons que l’atmosphère à 4 000 m est :",
+    "options": {
+      "A": "plus froide que l’atmosphère standard.",
+      "B": "conforme à l’atmosphère standard.",
+      "C": "plus chaude que l’atmosphère standard.",
+      "D": "plus riche en dioxygène qu’au niveau du sol."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_1.17",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "La brise de pente (montante) se forme en région :",
+    "options": {
+      "A": "montagneuse et de nuit.",
+      "B": "côtière et de nuit.",
+      "C": "montagneuse et de jour.",
+      "D": "côtière et de jour."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_1.18",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Je monte dans l’avion au matin. L’altimètre réglé sur le QNH hier soir indique une altitude supérieure à celle de l’aérodrome.",
+    "options": {
+      "A": "La pression sur l’aérodrome a baissé pendant la nuit.",
+      "B": "La température a baissé sur l’aérodrome pendant la nuit.",
+      "C": "La pression sur l’aérodrome a augmenté pendant la nuit.",
+      "D": "L’altimètre est forcément devenu défectueux."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_1.19",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Un vent du 090/20 vient :",
+    "options": {
+      "A": "de l'ouest à une vitesse de 20 kt.",
+      "B": "de l'est à une vitesse de 20 kt.",
+      "C": "de l'est à une vitesse de 20 km/h-1.",
+      "D": "de l'ouest à une vitesse de 20 km/h-1."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_1.20",
+    "year": 2025,
+    "theme": "meteorologie",
+    "question": "Sur des cartes TEMSI, on peut lire une validité au 14/10/2019 15 UTC. Sachant que le 14 octobre 2019, la France était en « heure d’été », à quelle heure légale correspond cette prévision ?",
+    "options": {
+      "A": "13 h.",
+      "B": "14 h.",
+      "C": "16 h.",
+      "D": "17 h."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_2.1",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Pour un aéronef en vol en palier stabilisé (vol horizontal stabilisé), quelle proposition est correcte ?",
+    "options": {
+      "A": "La portance est légèrement inférieure au poids.",
+      "B": "La portance équilibre la traînée.",
+      "C": "La portance et la traction sont identiques.",
+      "D": "La portance équilibre le poids."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_2.2",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Les dispositifs hypersustentateurs ont pour but :",
+    "options": {
+      "A": "de diminuer la portance à vitesse élevée (par exemple : pour une descente d'urgence).",
+      "B": "d'augmenter la vitesse de décrochage pour certaines manœuvres.",
+      "C": "de diminuer la traînée pour certaines manœuvres.",
+      "D": "de diminuer la vitesse de décrochage dans certaines phases de vol (par exemple : au décollage et à l'atterrissage)."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_2.3",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Le facteur de charge subi par un aéronef en virage en palier :",
+    "options": {
+      "A": "diminue avec l'inclinaison.",
+      "B": "est toujours égal à 2.",
+      "C": "ne dépend que du type d'aéronef.",
+      "D": "augmente avec l'inclinaison."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_2.4",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Le profil d’une aile est lisse lorsque :",
+    "options": {
+      "A": "les becs de bord d’attaque et les volets sont rentrés.",
+      "B": "les becs de bord d’attaque sont rentrés et les volets sont sortis.",
+      "C": "les becs de bord d’attaque sont sortis et les volets sont rentrés.",
+      "D": "les becs de bord d’attaque et les volets sont sortis."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_2.5",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Pour calculer la distance de décollage d’un avion, il faut prendre en compte :",
+    "options": {
+      "A": "la masse de l’avion uniquement.",
+      "B": "la température, l’altitude de l’aéroport, la masse de l’avion.",
+      "C": "l'altitude de l’aéroport uniquement.",
+      "D": "aucun de ces éléments."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_2.6",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "La traînée induite est une conséquence de :",
+    "options": {
+      "A": "l’interaction du fuselage et de l’aile.",
+      "B": "la rotation de l’hélice.",
+      "C": "la différente de pression entre l’intrados et l’extrados.",
+      "D": "l’usage d’un train fixe."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_2.7",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "L'incidence d'une aile est positive lorsque :",
+    "options": {
+      "A": "l'écoulement est parallèle à la corde du profil.",
+      "B": "l'écoulement attaque le profil du côté de l'extrados.",
+      "C": "l'écoulement attaque le profil du côté de l'intrados.",
+      "D": "l'aéronef est en vol dos stabilisé."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_2.8",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Lors d'une ressource, le facteur de charge :",
+    "options": {
+      "A": "augmente.",
+      "B": "diminue et la vitesse de décrochage augmente.",
+      "C": "reste constant.",
+      "D": "diminue ainsi que la vitesse de décrochage."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_2.9",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Ce qui assure la plus grande stabilité d'un aéronef est :",
+    "options": {
+      "A": "le dièdre et la flèche positifs.",
+      "B": "le dièdre négatif et la flèche nulle.",
+      "C": "le dièdre et la flèche négatifs.",
+      "D": "le dièdre positif et la flèche nulle."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_2.10",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "L'angle d'incidence d'un profil est l'angle formé entre :",
+    "options": {
+      "A": "la corde du profil et l'horizontale.",
+      "B": "l'axe longitudinal de l'avion et la direction du vent relatif.",
+      "C": "la direction du vent relatif et l'horizontale.",
+      "D": "la corde du profil et la direction du vent relatif."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_2.11",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Lorsqu’un aéronef est centré avant :",
+    "options": {
+      "A": "sa stabilité augmente.",
+      "B": "sa maniabilité augmente.",
+      "C": "sa maniabilité et sa stabilité ne sont pas modifiées.",
+      "D": "sa stabilité diminue."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_2.12",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "L’assistance gravitationnelle :",
+    "options": {
+      "A": "permet le retour du lanceur sur Terre.",
+      "B": "est une ligne téléphonique entre l’ISS et la Terre en cas de besoin d’assistance.",
+      "C": "est utilisée comme « moteur » afin d’accélérer les sondes lors de leurs voyages interstellaires.",
+      "D": "est un propulseur."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_2.13",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "La corde de profil de l’aile est le segment qui joint :",
+    "options": {
+      "A": "l’emplanture à l’extrémité de l’aile.",
+      "B": "les deux extrémités de l’aile.",
+      "C": "le bord d’attaque au bord de fuite.",
+      "D": "la partie la plus large entre l’intrados et l’extrados."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_2.14",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "L'origine de la sustentation de l'aile résulte de l'apparition :",
+    "options": {
+      "A": "d'une dépression à l'extrados et à l'intrados.",
+      "B": "d'une surpression à l'intrados et à l'extrados.",
+      "C": "d'une dépression à l'extrados et d'une surpression à l'intrados.",
+      "D": "d'une surpression à l'extrados et d'une dépression à l'intrados."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_2.15",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "L'angle de pente est :",
+    "options": {
+      "A": "l'angle entre l'horizontale et l'axe longitudinal de l'avion.",
+      "B": "l'angle entre la corde de profil de l'aile et le vent relatif.",
+      "C": "l'angle affiché sur l'horizon artificiel du pilote.",
+      "D": "l'angle entre l'horizontale et la trajectoire réelle de l'avion."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_2.16",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "En vol, si le pilote tire fortement sur le manche, le facteur de charge :",
+    "options": {
+      "A": "augmente.",
+      "B": "diminue.",
+      "C": "reste constant.",
+      "D": "devient nul."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_2.17",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Parmi les éléments suivants, celui qui a une influence sur la position du centre de gravité est :",
+    "options": {
+      "A": "la trajectoire (palier, montée, descente).",
+      "B": "la vitesse.",
+      "C": "le niveau de carburant dans les réservoirs.",
+      "D": "l’inclinaison."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_2.18",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "En soufflerie, si on multiplie par 3 la vitesse du vent relatif, la valeur de la portance est :",
+    "options": {
+      "A": "multipliée par 3.",
+      "B": "multipliée par 9.",
+      "C": "multipliée par 6.",
+      "D": "multipliée par 12."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_2.19",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Le réglage de l'hélice en plein petit pas au décollage a pour but de :",
+    "options": {
+      "A": "diminuer la distance de décollage et la pente de montée.",
+      "B": "augmenter la distance de décollage et diminuer la pente de montée.",
+      "C": "diminuer la distance de décollage et augmenter la pente de montée.",
+      "D": "augmenter la distance de décollage et la pente de montée."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_2.20",
+    "year": 2025,
+    "theme": "aerodynamique",
+    "question": "Pour un aéronef en montée rectiligne uniforme, la force de traction de l'hélice est fonction :",
+    "options": {
+      "A": "uniquement de la traînée.",
+      "B": "de la traînée, du poids et de l'angle de montée.",
+      "C": "uniquement du poids et de la portance.",
+      "D": "du poids et de l'angle de montée."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_3.1",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Parmi ces instruments, celui qui utilise un gyroscope est :",
+    "options": {
+      "A": "l'horizon artificiel.",
+      "B": "le compas magnétique.",
+      "C": "l'anémomètre.",
+      "D": "le tachymètre."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_3.2",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Quels sont les éléments présents dans une commande de vol mécanique simple d’un avion d’aéroclub ?",
+    "options": {
+      "A": "Câbles et poulies.",
+      "B": "Tuyaux hydrauliques et servo-commande.",
+      "C": "Moteurs électriques et câbles.",
+      "D": "Bielles et pistons."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_3.3",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Dans un moteur à 4 temps, la compression intervient après :",
+    "options": {
+      "A": "la combustion.",
+      "B": "la détente.",
+      "C": "l'admission.",
+      "D": "l'échappement."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_3.4",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Sur un parapente, la liaison entre les élévateurs et l’aile est assurée par :",
+    "options": {
+      "A": "des ficelles.",
+      "B": "des cordelettes.",
+      "C": "des lignes.",
+      "D": "des suspentes."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_3.5",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Pour indiquer l'altitude, l'altimètre utilise :",
+    "options": {
+      "A": "la différence entre la pression totale et la pression dynamique.",
+      "B": "la pression totale.",
+      "C": "la pression dynamique.",
+      "D": "la pression statique."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_3.6",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Les cadres :",
+    "options": {
+      "A": "ont dans le fuselage le même rôle que les nervures dans les ailes.",
+      "B": "sont situés en bout d'aile pour éviter les tourbillons marginaux.",
+      "C": "sont les pièces maîtresses du fuselage qui supportent les efforts de flexion.",
+      "D": "sont toujours montés par paire pour augmenter leur solidité."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_3.7",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "En aéromodélisme, un avion d’apprentissage « deux axes » est pilotable sur les axes de :",
+    "options": {
+      "A": "roulis et lacet.",
+      "B": "roulis uniquement.",
+      "C": "tangage et roulis.",
+      "D": "tangage et lacet."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_3.8",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Durant un cycle de fonctionnement d'un moteur à pistons (4 temps), le seul temps où le piston monte du point mort bas au point mort haut avec les soupapes fermées est le temps :",
+    "options": {
+      "A": "d'admission.",
+      "B": "de compression.",
+      "C": "de combustion-détente.",
+      "D": "d'échappement."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_3.9",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "L'avion représenté sur la photographie ci-après possède un train :",
+    "options": {
+      "A": "classique.",
+      "B": "tricycle.",
+      "C": "caréné.",
+      "D": "rentrant."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_3.10",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "En considérant la figure ci-dessous, les combinaisons correctes sont :",
+    "options": {
+      "A": "A2, B4, C3, D1.",
+      "B": "A2, B4, C1, D3.",
+      "C": "A4, B5, C2, D1.",
+      "D": "A4, B2, C3, D5."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_3.11",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Sur le plan ci-dessous, la combinaison correcte est :",
+    "options": {
+      "A": "1 : aileron, 2 : saumon, 3 : volet, 4 : gouverne de profondeur.",
+      "B": "1 : volet, 2 : saumon, 3 : aileron, 4 : gouverne de profondeur.",
+      "C": "1 : aileron, 2 : saumon, 3 : volet, 4 : gouverne de direction.",
+      "D": "1 : aileron, 2 : tab, 3 : volet, 4 : gouverne de direction."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_3.12",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Sur un avion certifié, un moteur à pistons contenant 4 cylindres est pourvu au total de :",
+    "options": {
+      "A": "2 bougies d'allumage.",
+      "B": "4 bougies d'allumage.",
+      "C": "8 bougies d'allumage.",
+      "D": "0 bougie d'allumage."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_3.13",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Cette machine est équipée :",
+    "options": {
+      "A": "d’un train classique et d’ailes hautes.",
+      "B": "d’un train tricycle et d’ailes hautes.",
+      "C": "d’un train classique et d’ailes basses.",
+      "D": "d’un train tricycle et d’ailes basses."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_3.14",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Quelle est la mauvaise classification ?",
+    "options": {
+      "A": "Aérodynes non motorisés : deltaplanes, planeurs",
+      "B": "Aérostat : deltaplane, ballons, dirigeables",
+      "C": "Engins aérospatiaux : lanceurs, fusées",
+      "D": "Engins spatiaux : satellites, sondes"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_3.15",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "L'élément fléché correspond à :",
+    "options": {
+      "A": "l'emplanture.",
+      "B": "un aileron basse vitesse.",
+      "C": "un volet.",
+      "D": "un winglet."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_3.16",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Un empennage dit « canard » :",
+    "options": {
+      "A": "est situé à l’avant de l’avion.",
+      "B": "remplace les ailerons.",
+      "C": "est synonyme d’un empennage en V.",
+      "D": "est situé à l’arrière de l’avion."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_3.17",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Les acteurs du transport aérien (motoristes, compagnies aériennes, pétroliers) se sont engagés dans le développement d’un nouveau carburant pour remplacer à terme le kérosène (JET A1), compatible et mixable avec le kérosène. De quel carburant s’agit-il ?",
+    "options": {
+      "A": "EFIS : Ecological Fuel International Standard",
+      "B": "JET A2 : 2ème génération du JET",
+      "C": "AKI : Alternative Kerosene Initiative",
+      "D": "SAF : Sustainable Aviation Fuel"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_3.18",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Pour effectuer une rotation autour de l’axe de roulis, le pilote doit :",
+    "options": {
+      "A": "modifier la profondeur à l’aide du compensateur.",
+      "B": "déplacer le manche en avant ou en arrière.",
+      "C": "déplacer le manche à gauche ou à droite.",
+      "D": "actionner le palonnier."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_3.19",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Le rotor anticouple d'un hélicoptère permet de contrôler :",
+    "options": {
+      "A": "la rotation autour de l'axe de tangage.",
+      "B": "la rotation autour de l'axe de lacet.",
+      "C": "la rotation autour de l'axe de roulis.",
+      "D": "la vitesse ascensionnelle."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_3.20",
+    "year": 2025,
+    "theme": "aeronefs",
+    "question": "Le variomètre indique :",
+    "options": {
+      "A": "la vitesse horizontale.",
+      "B": "la vitesse verticale.",
+      "C": "l'altitude.",
+      "D": "les variations de régime moteur."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_4.1",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Sachant que votre route magnétique est de 090° et que vous êtes en VFR, quel niveau de vol (Flight Level) choisissez-vous pour respecter la règle de la semi-circulaire ?",
+    "options": {
+      "A": "60.",
+      "B": "65.",
+      "C": "70.",
+      "D": "75."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_4.2",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Lorsque vous vous trouvez au point d’attente, vous effectuez le contrôle des magnétos. Cela consiste à contrôler le bon fonctionnement :",
+    "options": {
+      "A": "des deux systèmes d’allumage du moteur.",
+      "B": "du compas et du cap magnétique.",
+      "C": "du gyroscope du conservateur de cap.",
+      "D": "du gyroscope de l’horizon artificiel."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.3",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Pour voler en France, les avions certifiés doivent obligatoirement posséder :",
+    "options": {
+      "A": "la licence de station d’aéronefs (LSA).",
+      "B": "l'habilitation de radiotéléphonie en langue française.",
+      "C": "la facture d’achat de l’avion.",
+      "D": "les certificats de navigabilité (CEN) et d’examen de navigabilité (CDN)."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_4.4",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Votre vol VFR vous amène à traverser une TMA de classe D :",
+    "options": {
+      "A": "c’est une zone non contrôlée.",
+      "B": "c’est une zone contrôlée qui nécessite une clairance.",
+      "C": "c’est une zone contrôlée qui ne nécessite jamais de clairance.",
+      "D": "c’est une zone interdite au vol VFR."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_4.5",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Un aérodrome ouvert à la CAP :",
+    "options": {
+      "A": "n'est ouvert qu'aux appareils d'État.",
+      "B": "est ouvert à la circulation aérienne publique.",
+      "C": "est interdit aux ULM.",
+      "D": "nécessite un certificat d'aptitude à se poser."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_4.6",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "La cause d’accident la moins fréquente en aéronautique est :",
+    "options": {
+      "A": "le pilote.",
+      "B": "la météo.",
+      "C": "les infrastructures.",
+      "D": "l’aéronef."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_4.7",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Pour afficher leur altitude par rapport au niveau moyen de la mer, les pilotes doivent afficher sur leur altimètre un calage :",
+    "options": {
+      "A": "QNH.",
+      "B": "QFE.",
+      "C": "QFU.",
+      "D": "1013.0."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.8",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Un tour de piste main gauche signifie :",
+    "options": {
+      "A": "que l’avion doit se poser sur la partie gauche de la piste.",
+      "B": "que le pilote doit piloter avec la main gauche pour des raisons de sécurité.",
+      "C": "que le pilote effectue le dernier virage avec la piste à sa gauche.",
+      "D": "que la manche à air est à gauche de la piste."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_4.9",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Comment est appelé l'angle entre le nord vrai et le nord magnétique ?",
+    "options": {
+      "A": "déviation.",
+      "B": "déclinaison magnétique.",
+      "C": "erreur de parallaxe.",
+      "D": "inclinaison magnétique."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_4.10",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "La route géographique ou route vraie sur la première branche est de 330°, la déclinaison magnétique est de 2°E, votre route magnétique est de :",
+    "options": {
+      "A": "328°.",
+      "B": "330°.",
+      "C": "332°.",
+      "D": "32°."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.11",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "À la radio, le signal de détresse est :",
+    "options": {
+      "A": "« Mayday ».",
+      "B": "« Mayday, Mayday, Mayday ».",
+      "C": "« Panne, Panne, Panne ».",
+      "D": "« Panne »."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_4.12",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "En France métropolitaine, en un lieu déterminé, la nuit aéronautique commence :",
+    "options": {
+      "A": "30 minutes après le coucher du soleil et se termine 30 minutes avant le lever du soleil.",
+      "B": "30 minutes après le coucher du soleil et se termine 30 minutes après le lever du soleil.",
+      "C": "30 minutes avant le coucher du soleil et se termine 30 minutes après le lever du soleil.",
+      "D": "30 minutes avant le coucher du soleil et se termine 30 minutes avant le lever du soleil."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.13",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Compte tenu des règles de priorité, quelle manœuvre doit réaliser chaque pilote se faisant face pour éviter un accident ?",
+    "options": {
+      "A": "Les deux tournent à gauche.",
+      "B": "Chacun vire à droite.",
+      "C": "1 tourne à gauche et 2 tourne à droite.",
+      "D": "1 tourne à droite et 2 tourne à gauche."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_4.14",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Sur tous les aérodromes ouverts à la circulation aérienne publique (CAP), la réglementation impose la présence :",
+    "options": {
+      "A": "du numéro de la piste en service sur la tour de contrôle.",
+      "B": "d'un hangar pour héberger les avions de passage.",
+      "C": "d'une manche à air.",
+      "D": "d'un T indiquant la piste en service."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_4.15",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Un avion de ligne effectue la liaison New York - Paris à la vitesse propre de 900 km/h. Il évolue dans un Jet Stream de 300 km/h orienté d'ouest en est. Quelle est alors sa vitesse sol ?",
+    "options": {
+      "A": "1200 km/h.",
+      "B": "900 km/h.",
+      "C": "600 km/h.",
+      "D": "300 km/h."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.16",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "En vol, si la météo devait se dégrader fortement devant vous, votre instructeur pourrait vous conseiller de :",
+    "options": {
+      "A": "faire demi-tour.",
+      "B": "maintenir votre trajectoire en espérant que cette dégradation n'est que passagère.",
+      "C": "descendre rapidement près du sol pour mieux voir.",
+      "D": "maintenir votre trajectoire en découvrant les bases du vol aux instruments."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.17",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "La fréquence radio de détresse est :",
+    "options": {
+      "A": "le 121,5 MHz.",
+      "B": "le 122,5 MHz.",
+      "C": "le 123,5 MHz.",
+      "D": "le 130 MHz."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.18",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "Au bout de 10 minutes de vol, vous ressentez des nausées, votre instructeur vous tend un sac à vomi que vous ne tardez pas à utiliser … Vous êtes victime :",
+    "options": {
+      "A": "d’un conflit vestibulo-visuel.",
+      "B": "d'une otite barotraumatique.",
+      "C": "d'une hypoxie.",
+      "D": "d'une embolie pulmonaire."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.19",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "La responsabilité de l’entretien d’un ULM est réglementairement assurée par :",
+    "options": {
+      "A": "le propriétaire.",
+      "B": "un organisme agréé.",
+      "C": "le constructeur.",
+      "D": "le mécanicien du club."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_4.20",
+    "year": 2025,
+    "theme": "navigation",
+    "question": "La visite prévol est effectuée :",
+    "options": {
+      "A": "une fois par jour par le commandant de bord.",
+      "B": "systématiquement par le commandant de bord avant chaque vol.",
+      "C": "une fois par jour par le chef mécanicien.",
+      "D": "après chaque réparation."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_5.1",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Un as de la Première Guerre mondiale a laissé son nom à une manœuvre acrobatique destinée à inverser rapidement la direction du vol. Il s'agit de :",
+    "options": {
+      "A": "René Fonck.",
+      "B": "Georges Guynemer.",
+      "C": "Charles Nungesser.",
+      "D": "Max Immelmann."
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_5.2",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "La compagnie Air France a été créée en :",
+    "options": {
+      "A": "1933.",
+      "B": "1945.",
+      "C": "1920.",
+      "D": "1970."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.3",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "On attribue aux Chinois l'invention d'un engin volant \"plus lourd que l'air\" qui est :",
+    "options": {
+      "A": "la lanterne céleste.",
+      "B": "le cerf-volant.",
+      "C": "le ballon dirigeable.",
+      "D": "le ballon à gaz."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_5.4",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "En 1910, Henri Fabre est le premier à décoller à bord d'un :",
+    "options": {
+      "A": "bimoteur.",
+      "B": "hydravion.",
+      "C": "planeur.",
+      "D": "autogire."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_5.5",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Léonard de Vinci a envisagé un modèle de parachute :",
+    "options": {
+      "A": "composé d'une voilure tournante en plumes d'oiseau.",
+      "B": "en forme de « tente » à faces rectangulaires ou triangulaires.",
+      "C": "comportant quatre vis d’Archimède.",
+      "D": "de forme hémisphérique."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_5.6",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Le tigre est un hélicoptère :",
+    "options": {
+      "A": "américain, complémentaire de l'Apache.",
+      "B": "soviétique, symbole de la Guerre froide.",
+      "C": "européen, de transport de troupes.",
+      "D": "franco-allemand, capable d'effectuer un looping"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "2025_5.7",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "En quelle année a été créée la première patrouille de France ?",
+    "options": {
+      "A": "1946.",
+      "B": "1953.",
+      "C": "1920.",
+      "D": "1961"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_5.8",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Wernher Von Braun est le père du programme spatial américain ayant amené un homme sur la Lune, il est également à l'origine de :",
+    "options": {
+      "A": "l'avion Messerschmitt 262.",
+      "B": "l'arme de représailles V2.",
+      "C": "l'avion fusée Me163.",
+      "D": "le lanceur Soyouz."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_5.9",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "En 2009, Airbus inaugure le premier vol commercial du plus grand avion civil au monde. Cet avion s'appelle :",
+    "options": {
+      "A": "A400M.",
+      "B": "A380.",
+      "C": "Triple 7.",
+      "D": "BELUGA."
+    },
+    "correct": "B"
+  },
+  {
+    "id": "2025_5.10",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Dans quelle ville se trouve la base aérienne de la patrouille de France ?",
+    "options": {
+      "A": "Salon-de-Provence.",
+      "B": "Istres.",
+      "C": "Étampes.",
+      "D": "Le Bourget."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.11",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "L’avion ci-dessous est de conception des années :",
+    "options": {
+      "A": "1950.",
+      "B": "1980.",
+      "C": "1670.",
+      "D": "2000."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.12",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Au cours de la Première Guerre mondiale, la vitesse moyenne des avions de chasse sera multipliée par :",
+    "options": {
+      "A": "2.",
+      "B": "4.",
+      "C": "6.",
+      "D": "8."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.13",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Le premier vol de l'Airbus A380 a eu lieu en :",
+    "options": {
+      "A": "2005.",
+      "B": "2000.",
+      "C": "2010.",
+      "D": "1995."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.14",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Un peu avant la Première Guerre mondiale, l'ingénieur Raoul Badin se rend célèbre par une innovation concernant :",
+    "options": {
+      "A": "un instrument de bord destiné à mesurer la vitesse de l’aéronef par rapport à l’air dans lequel il évolue.",
+      "B": "le tir à travers l'hélice sans heurter les pales.",
+      "C": "la disposition en étoile des cylindres d'un moteur.",
+      "D": "le siège éjectable."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.15",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Les premières compétitions aériennes avant la Première Guerre mondiale ont été soutenues par de grands donateurs comme :",
+    "options": {
+      "A": "Michelin.",
+      "B": "Dassault.",
+      "C": "Chanel.",
+      "D": "Lacoste."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.16",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "En 1921, Adrienne Bolland fut la première aviatrice à traverser :",
+    "options": {
+      "A": "la cordillère des Andes.",
+      "B": "les Alpes.",
+      "C": "la Méditerranée entre le continent et la Corse.",
+      "D": "le continent antarctique."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.17",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "En quelle année Charles Lindbergh a-t-il traversé l’Atlantique pour la première fois ?",
+    "options": {
+      "A": "1909.",
+      "B": "1913.",
+      "C": "1927.",
+      "D": "1941."
+    },
+    "correct": "C"
+  },
+  {
+    "id": "2025_5.18",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "En 1930, les pilotes français Costes et Bellonte traversent l'Atlantique Nord dans le sens Paris New York aux commandes du :",
+    "options": {
+      "A": "Breguet 19 « Point d'Interrogation ».",
+      "B": "Bernard 191 GR « Oiseau Canari ».",
+      "C": "Ryan NYP « Spirit of St-Louis ».",
+      "D": "Latécoère 28-3 « Comte de la Vaulx »."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.19",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Parmi ces avions à réacteurs, celui ayant initié le transport de masse en nombre de passagers est :",
+    "options": {
+      "A": "le Boeing B747.",
+      "B": "le Concorde.",
+      "C": "l'Airbus Beluga.",
+      "D": "l'Airbus A380."
+    },
+    "correct": "A"
+  },
+  {
+    "id": "2025_5.20",
+    "year": 2025,
+    "theme": "histoire",
+    "question": "Le premier vol commercial d’Ariane 6 a eu lieu en :",
+    "options": {
+      "A": "2025.",
+      "B": "2020.",
+      "C": "2018.",
+      "D": "2010."
+    },
+    "correct": "A"
+  }
+]
